@@ -1,3 +1,6 @@
 # odin-recipes
 I'm a novice here i just want to learn coding know how to create a website 
-Thanks u odin
+
+I Love Fragrances so is a fragrance reference website
+
+Thanks u odin !
